@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839320745828",
+    "project_id": "todoappbloc",
+    "storage_bucket": "todoappbloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839320745828:android:fb501babf2c93318e96c71",
+        "android_client_info": {
+          "package_name": "com.example.TodoAppBloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839320745828-bnkfnbdkfqid5vn0a2tsqmpaqcshupat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkZu2pOox5wlwloFNukjUQk-HS0dijXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839320745828-bnkfnbdkfqid5vn0a2tsqmpaqcshupat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
